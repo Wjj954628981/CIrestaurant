@@ -1,0 +1,21 @@
+div.tables{
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 18px ;
+}
+.class3{
+    background-color: #6699FF;
+}
+.class0{
+    background-color: #00cc33;
+}
+.class2{
+    background-color: #FF6600;
+}
+.class1{
+    background-color: #FFCC00;/*黄色*/
+}
