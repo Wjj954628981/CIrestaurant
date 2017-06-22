@@ -43,7 +43,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
   </nav>
 
   <div class="container">
-    <h1 class="text-center text-primary">Menu <small>当前桌号是：  <input type="number" id="tableId" value="<?php echo $tableId  ?>"></small></h1> 
+    <h1 class="text-center text-primary">
+    Menu 
+    <br>
+      <small>
+        当前桌号是：
+        <span id="tableId"><?php echo $tableId  ?></span>
+      </small>
+    </h1> 
 
 
 
